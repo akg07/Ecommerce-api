@@ -84,16 +84,16 @@ Router and Controller has API folder which has all API related modules.
 Here are some sample images of the CRUD Ops. Have a quick look
 
 #### Create a new Product
-![SignUp Page Screen Shot][create-screenshot]
+![Create Screen Shot][create-screenshot]
 
 #### Read All the products
-![home Page Screen Shot][read-screenshot]
+![get all product Screen Shot][read-screenshot]
 
 #### Update a product
-![profile Page Screen Shot][update-screenshot]
+![update a product Screen Shot][update-screenshot]
 
 #### Delete a product
-![Re-verify Page Screen Shot][delete-screenshot]
+![delete a product Screen Shot][delete-screenshot]
 
 ### Built With
 
@@ -283,8 +283,8 @@ Project Link: [Ecommerce Api](https://github.com/akg07/Ecommerce-api)
 
 [create-screenshot]: assets/Screenshots/create.png
 
-[read-screenshot]: assets/Screenshots/Get_all.png
+[read-screenshot]: assets/Screenshots/get_all.png
 
 [update-screenshot]: assets/Screenshots/update.png
 
-[delete-screenshot]: assets/Screenshots/detele.png
+[delete-screenshot]: assets/Screenshots/delete.png
