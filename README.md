@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/akg07/Node-Authentication">
-    <img src="assets/Project_imgs/logo_img.png" alt="Logo" width="80" height="80">
+    <img src="assets/screenshots/api_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ecommerce API</h3>
@@ -19,14 +19,14 @@
   <p align="center">
     An Ecommerce API to manupulate database by using CRUD operaitons
     <br />
-    <a href="https://github.com/akg07/Node-Authentication#readme"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/akg07/Ecommerce-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/akg07/Node-Authentication#readme">View Demo</a>
+    <a href="https://github.com/akg07/Ecommerce-api#readme">View Demo</a>
     ·
-    <a href="https://github.com/akg07/Node-Authentication/issues">Report Bug</a>
+    <a href="https://github.com/akg07/Ecommerce-api/issues">Report Bug</a>
     ·
-    <a href="https://github.com/akg07/Node-Authentication/issues">Request Feature</a>
+    <a href="https://github.com/akg07/Ecommerce-api/issues">Request Feature</a>
   </p>
 </div>
 
@@ -43,13 +43,17 @@
       </ul>
     </li>
     <li>
+    <a href="#Sample-images-from-postman">Sample Images from postman</a>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li a="#configure">Configure</li>
+    <li a="#run-on-postman">Run on postman</li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -60,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Login page Screen Shot][product-screenshot]](https://github.com/akg07/Node-Authentication/blob/master/assets/Project_imgs/Login_img.png)
+<!-- [![Login page Screen Shot][product-screenshot]](https://github.com/akg07/Node-Authentication/blob/master/assets/Project_imgs/Login_img.png) -->
 
 
 In this project We applied all CRUD operations on product document in collection ecommerce-api.
@@ -97,8 +101,8 @@ This project is build with various libraries and frameworks. Some of them is lis
 
 * [Node Js](https://nodejs.org/en/)
 * [Express Js](http://expressjs.com/)
-* [MongoDB]()
-* [Postman] ()
+* [MongoDB](https://www.mongodb.com/)
+* [Postman](https://www.postman.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +127,7 @@ Clone the project from Git and install all the required libraries for the projec
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/akg07/Ecommerce-api
    ```
 2. Install NPM packages
    ```sh
@@ -254,7 +258,7 @@ In Case of any issue related to project setup or anything please contact me on a
 
 Aayush Kumar Gupta - [@Aayushkg_07](https://twitter.com/Aayushkg_07) - ayush3032@gmail.com
 
-Project Link: [https://github.com/akg07/Node-Authentication](https://github.com/akg07/Node-Authentication)
+Project Link: [Ecommerce Api](https://github.com/akg07/Ecommerce-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
