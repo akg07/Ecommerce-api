@@ -52,8 +52,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li a="#configure">Configure</li>
-    <li a="#run-on-postman">Run on postman</li>
+    <li>
+        <a href="#configure">Configure</a>
+    </li>
+    <li>
+        <a href="#run-on-postman">Run on postman</a>
+    </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -281,10 +285,10 @@ Project Link: [Ecommerce Api](https://github.com/akg07/Ecommerce-api)
 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
-[create-screenshot]: assets/Screenshots/create.png
+[create-screenshot]: assets/screenshots/create.png
 
-[read-screenshot]: assets/Screenshots/get_all.png
+[read-screenshot]: assets/screenshots/get_all.png
 
-[update-screenshot]: assets/Screenshots/update.png
+[update-screenshot]: assets/screenshots/update.png
 
-[delete-screenshot]: assets/Screenshots/delete.png
+[delete-screenshot]: assets/screenshots/delete.png
