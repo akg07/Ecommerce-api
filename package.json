@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "An Ecommerce API which is backed By Node-express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akg07/Ecommerce-API.git"
+  },
+  "author": "Aayush Kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akg07/Ecommerce-API/issues"
+  },
+  "homepage": "https://github.com/akg07/Ecommerce-API#readme"
+}
