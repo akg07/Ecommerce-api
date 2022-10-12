@@ -10,9 +10,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/akg07/Node-Authentication">
+  <!--- <a href="https://github.com/akg07/Node-Authentication">
     <img src="assets/screenshots/api_logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">Ecommerce API</h3>
 
@@ -68,8 +68,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Login page Screen Shot][product-screenshot]](https://github.com/akg07/Node-Authentication/blob/master/assets/Project_imgs/Login_img.png) -->
-
 
 In this project We applied all CRUD operations on product document in collection ecommerce-api.
 
@@ -88,16 +86,16 @@ Router and Controller has API folder which has all API related modules.
 Here are some sample images of the CRUD Ops. Have a quick look
 
 #### Create a new Product
-![Create Screen Shot][create-screenshot]
+![Create Screen Shot](https://github.com/akg07/Ecommerce-api/blob/master/assets/Screenshots/Create.png)
 
 #### Read All the products
-![get all product Screen Shot][read-screenshot]
+![get all product Screen Shot](https://github.com/akg07/Ecommerce-api/blob/master/assets/Screenshots/Get_all.png)
 
 #### Update a product
-![update a product Screen Shot][update-screenshot]
+![update a product Screen Shot](https://github.com/akg07/Ecommerce-api/blob/master/assets/Screenshots/update.png)
 
 #### Delete a product
-![delete a product Screen Shot][delete-screenshot]
+![delete a product Screen Shot](https://github.com/akg07/Ecommerce-api/blob/master/assets/Screenshots/Delete.png)
 
 ### Built With
 
