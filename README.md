@@ -281,14 +281,10 @@ Project Link: [Ecommerce Api](https://github.com/akg07/Ecommerce-api)
 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
-[product-screenshot]: assets/Project_imgs/Login_img.png
+[create-screenshot]: assets/Screenshots/create.png
 
-[signup-screenshot]: assets/Project_imgs/Signup_img.png
+[read-screenshot]: assets/Screenshots/Get_all.png
 
-[home-screenshot]: assets/Project_imgs/home_img.png
+[update-screenshot]: assets/Screenshots/update.png
 
-[profile-screenshot]: assets/Project_imgs/profile_img.png
-
-[update-password-screenshot]: assets/Project_imgs/update_password_img.png
-
-[Re-verify-screenshot]: assets/Project_imgs/reverify_user_img.png
+[delete-screenshot]: assets/Screenshots/detele.png
